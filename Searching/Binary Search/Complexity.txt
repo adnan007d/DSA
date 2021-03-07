@@ -1,0 +1,7 @@
+Best Case: - 
+    If searching for the middle element.
+    The complexity will be O ( 1 )
+Worst Case: - 
+    If searching for last element or first element  or element not present in the list
+    The complexity will be O ( Log n )
+    
