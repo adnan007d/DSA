@@ -1,0 +1,7 @@
+Best Case: - 
+    If searching for the 1 element or last element if starting from end.
+    The complexity will be O ( 1 )
+Worst Case: - 
+    If searching for last element or element not present in the list
+    The complexity will be O ( n )
+    
