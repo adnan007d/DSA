@@ -1,3 +1,4 @@
+*Required array/list should be already sorted
 Best Case: - 
     If searching for the middle element.
     The complexity will be O ( 1 )
