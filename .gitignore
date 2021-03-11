@@ -1,3 +1,4 @@
 *.out
 *.class
 Theory/
+__pycache__/
