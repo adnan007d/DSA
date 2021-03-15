@@ -1,0 +1,5 @@
+Best and Average Case: when the pivot is always the middle element or a random element the complexity is O (nlog n)
+
+Worst Case: when the the pivot is last or first element the complexity is O (n^2)
+
+Quick Sort is not stable!!
